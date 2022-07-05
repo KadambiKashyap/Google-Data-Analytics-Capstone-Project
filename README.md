@@ -1,4 +1,5 @@
 # Google-Data-Analytics-Capstone-Project
+  - - - -
   This repository contains code for Capstone Project (Case Study 1) done as part of Coursera Google Data Analytics Professional Certificate.
 
 ## Scenario
@@ -17,16 +18,15 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
 The goal of this case study is to identify how do annual members and casual riders use Cyclistic bikes differently in order to develop a new marketing strategy by the Marketing group to introduce more annual cyclists members 
 
 ## Project Objectives
-How do annual members and casual riders use Cyclistic bikes differently?
 Why would casual riders buy Cyclistic annual memberships?
+How do annual members and casual riders use Cyclistic bikes differently?
 How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Stakeholders
 
- * Primary Stakeholders: Lily Moreno(Director of marketing) and Cyclistic executive team
+ * Primary Stakeholders: **Lily Moreno(Director of marketing)** and **Cyclistic executive team**
  * Secondary Stakeholders: Cyclistic marketing analytics team
-
-
+  - - - -
 # Step 2. Prepare
  
 [12-month Cyclistic trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) (May-2020 to Apr-2021) provided by Divvy, the data has been made available by Motivate International Inc.
@@ -39,18 +39,18 @@ ROCCC approach is used to determine the credibility of the data
 * Current – It is up-to-date as it includes data until end of May 2021
 * Cited - The data is cited and is available under Data License Agreement.
 
-Tool
-R programming was used to analyze the data
-
+### Tool
+Analysis of the data is done by using Microsoft Excel and R programming
+  - - - -
 # Step 3. Process
-refer to the .R file
-
+The following [.r code](#R_Cyclicts_programme) are the detailed code for the Process step
+  - - - -
 # Step 4. Analyze
-refer to the .R file
-
+The following [.r code](#R_Cyclicts_programme) are the detailed code for the Analyze step
+ - - - -
 # Step 5. Share
-refer to the .R file and here on tableau
-
+The following [.r code](#R_Cyclicts_programme) are the detailed code for the Share step
+  - - - -
 # Step 6. Act
 How do annual members and casual riders use Cyclistic bikes differently?
 
