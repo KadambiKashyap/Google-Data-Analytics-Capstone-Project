@@ -1,32 +1,27 @@
 # Google-Data-Analytics-Capstone-Project
-Data Analysis Process on Cyclistic bike-share company, using R, the capstone project from Google Data Analytics Professional Certification.
+  This repository contains code for Capstone Project (Case Study 1) done as part of Coursera Google Data Analytics Professional Certificate.
+
+## Scenario
+  You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+
+  The project contains the following six step data analysis process: ask, prepare, process, analyze, share, and act.
 
 # Step 1. Ask
-## Background
-A bike-share program that features more than 5,800 bicycles and 600 docking stations across Chicago, launched in 2016.
 
-Products: reclining bikes, hand tricycles, and cargo bikes
+## About the Company
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
-Customer purchase behavior: 70% of traditional bike riders about 8% of riders using the assistive options
-
-Consumer segments: casual riders (comprising 70% of sales), and annual memberships (comprising 30% of sales)
-
-Business Task (problem)
-To create new marketing strategy, designed to convert casual rides into annual members (since annual members bring more profits to the organization, compared to casual riders)
-Project Objectives
+## Project Objectives
 How do annual members and casual riders use Cyclistic bikes differently?
 Why would casual riders buy Cyclistic annual memberships?
 How can Cyclistic use digital media to influence casual riders to become members?
-Deliverables
-A summary of the business task
-Data sources used
-Data collection method
-Documentation of data analysis process performed
-Supporting visualizations and key findings
-Recommendations based on the analysis
-Target Audience
-Primary Stakeholders : Cyclistic executive team
-Secondary Stakeholders : Lily Moreno (the director of marketing), Cyclistic marketing analystics team
+
+## Stakeholders
+
+Primary stakeholders: ### Lily Moreno(Director of marketing) and ### Cyclistic executive team
+
+Secondary stakeholders: Cyclistic marketing analytics tea
+
 
 # Step 2. Prepare
 Data Sources
