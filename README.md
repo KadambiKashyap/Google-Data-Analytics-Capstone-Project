@@ -11,6 +11,11 @@
 ## About the Company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
+
+
+## Summary of Business Task
+The goal of this case study is to identify how do annual members and casual riders use Cyclistic bikes differently in order to develop a new marketing strategy by the Marketing group to introduce more annual cyclists members 
+
 ## Project Objectives
 How do annual members and casual riders use Cyclistic bikes differently?
 Why would casual riders buy Cyclistic annual memberships?
@@ -18,23 +23,21 @@ How can Cyclistic use digital media to influence casual riders to become members
 
 ## Stakeholders
 
-Primary stakeholders: ### Lily Moreno(Director of marketing) and ### Cyclistic executive team
-
-Secondary stakeholders: Cyclistic marketing analytics tea
+ * Primary Stakeholders: Lily Moreno(Director of marketing) and Cyclistic executive team
+ * Secondary Stakeholders: Cyclistic marketing analytics team
 
 
 # Step 2. Prepare
-Data Sources
-12-month Cyclistic trip data provided by Divvy, an open dataset from Motivate International Inc.
+ 
+[12-month Cyclistic trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) (May-2020 to Apr-2021) provided by Divvy, the data has been made available by Motivate International Inc.
 
-How data was collected
-Data was collected, subject to the terms and conditions of this License Agreement
+ROCCC approach is used to determine the credibility of the data
 
-Data Ethics
-No violation of data ethics: open data (free access, usage and sharing of data), removing personally identifiable information (data anonymization)
-
-Good Data (ROCC)
-Reliable: appropriate to answer the business questions Original: Third-party data source: Motivate International Inc. Comprehensive: contains all information needed Current: Not relevant because the data used was collected in 2019 and 2020
+* Reliable – It is complete and accurate and it represents all bike rides taken in the city of Chicago for the selected duration of our analysis.
+* Original - The data is made available by Motivate International Inc. which operates the city of Chicago’s Divvy bicycle sharing service which is powered by Lyft.
+* Comprehensive - the data includes all information about ride details including starting time, ending time, station name, station ID, type of membership and many more.
+* Current – It is up-to-date as it includes data until end of May 2021
+* Cited - The data is cited and is available under Data License Agreement.
 
 Tool
 R programming was used to analyze the data
