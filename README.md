@@ -2,7 +2,7 @@
 Data Analysis Process on Cyclistic bike-share company, using R, the capstone project from Google Data Analytics Professional Certification.
 
 # Step 1. Ask
-Background
+## Background
 A bike-share program that features more than 5,800 bicycles and 600 docking stations across Chicago, launched in 2016.
 
 Products: reclining bikes, hand tricycles, and cargo bikes
