@@ -43,13 +43,13 @@ ROCCC approach is used to determine the credibility of the data
 Analysis of the data is done by using Microsoft Excel and R programming
   - - - -
 # Step 3. Process
-The following [.r code](Divvy_cyclists) are the detailed code for the Process step
+The following [.r code](https://github.com/KadambiKashyap/Google-Data-Analytics-Capstone-Project/blob/main/Divvy_cyclicts.R) are the detailed code for the Process step
   - - - -
 # Step 4. Analyze
-The following [.r code](Divvy_cyclists) are the detailed code for the Analyze step
+The following [.r code](https://github.com/KadambiKashyap/Google-Data-Analytics-Capstone-Project/blob/main/Divvy_cyclicts.R) are the detailed code for the Analyze step
  - - - -
 # Step 5. Share
-The following [.r code](Divvy_cyclists) are the detailed code for the Share step
+The following [.r code](https://github.com/KadambiKashyap/Google-Data-Analytics-Capstone-Project/blob/main/Divvy_cyclicts.R) are the detailed code for the Share step
   - - - -
 # Step 6. Act
 How do annual members and casual riders use Cyclistic bikes differently?
