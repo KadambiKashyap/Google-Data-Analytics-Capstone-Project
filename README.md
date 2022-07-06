@@ -40,7 +40,7 @@ ROCCC approach is used to determine the credibility of the data
 * Cited - The data is cited and is available under Data License Agreement.
 
 ### Tool
-Analysis of the data is done by using Microsoft Excel and R programming
+Analysis of the data is done by using Microsoft Excel & R programming
   - - - -
 # Step 3. Process
 The following [.r code](https://github.com/KadambiKashyap/Google-Data-Analytics-Capstone-Project/blob/main/Divvy_cyclicts.R) are the detailed code for the Process step
@@ -52,21 +52,20 @@ The following [.r code](https://github.com/KadambiKashyap/Google-Data-Analytics-
 The following [.r code](https://github.com/KadambiKashyap/Google-Data-Analytics-Capstone-Project/blob/main/Divvy_cyclicts.R) are the detailed code for the Share step
   - - - -
 # Step 6. Act
-How do annual members and casual riders use Cyclistic bikes differently?
+After the analysis of the given Cyclists Data, we can come to the following conclusions:
 
-Casual riders have the highest rides on weekends while members, on weekdays.
-Casual riders go on a trip for less than 20 minutes but for members, around 60 minutes (1 hour).
-There is the least rides for both types of riders in the period between November to March, which is the winter time for Chicago.
-August would be the month with the highest casual members.
-Annual members is likely to use the service at around 7-8 am and around 5-6 pm, which is the same as the office hours in Chicago.
-The stations with highest casual riders are Streeter Dr & Grand Ave.
-Why would casual riders buy Cyclistic annual memberships?
+- **Casual riders have the highest rides on weekends while Annual members, on weekdays.**
+- **Casual riders take less number of rides but for longer durations.**
+- **Summer(June, July & August) would be the months with the highest number of trips made by casual riders..**
+- **Casual riders mostly use bikes for recreational purposes.**
+- **The stations with highest casual riders are Streeter Dr & Grand Ave.**
 
-Since the company want to persuade casual members to submit for membership, promotional strategy, like weekday discounts, should be used on weekends to increase membership.
-Causal riders are more like to go on further distance, compared to annual members, so charging the trip depending on the distance would generate more revenues from the casual riders. So, for the casual riders who would take on frequent trips would be more interested in entering into membership, which sounds more budget-efficient.
-Starting from April, riders tend to rise gradually with August being of the highest riders, so new marketing campaigns, like cycling race, should be held before August to attract more customers, which in turn offer more chances to convert casual riders into annual members.
-Placing promotional flyers at information centers of the stations with the highest casual riders would increase more membership enrollment.
-How can Cyclistic use digital media to influence casual riders to become members?
 
-To enhance brand awareness, which can turn casual riders into members, the company can use social media to target specific audiene, depending on their interests, which would make the organizatin more easier to tailor-make the ads for the casual riders.
-Membership referral program should be used. Social media would make it easier for the current members to participate in such promotion plan.
+## Recommendations
+
+* Increase of marketing efforts at the top 5 most frequented stations by casual riders.
+* Introduce a point-award incentive system for riding more trips in a membership format to receive discount and additional offers. Note:(Points should be based on trip duration given that casual riders have higher trip duration/ride length when compared to Annual members)
+* Implement a Membership referral program . Social media would make it easier for the current members to participate in such promotion plan.
+* Implement a weekend promo where riders can purchase weekend passes as it is the most popular time in the week to use Cyclistic bikes.
+* Implement a summer discount where riders can purchase summer passes given that the total amount of trips increases in the summer and highest in August.
+
