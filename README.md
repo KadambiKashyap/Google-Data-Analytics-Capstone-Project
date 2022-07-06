@@ -40,7 +40,7 @@ ROCCC approach is used to determine the credibility of the data
 * Cited - The data is cited and is available under Data License Agreement.
 
 ### Tool
-Analysis of the data is done by using Microsoft Excel & R programming
+Analysis of the data is done by using R programming
   - - - -
 # Step 3. Process
 The following [.r code](https://github.com/KadambiKashyap/Google-Data-Analytics-Capstone-Project/blob/main/Divvy_cyclicts.R) are the detailed code for the Process step
@@ -64,8 +64,8 @@ After the analysis of the given Cyclists Data, we can come to the following conc
 ## Recommendations
 
 * Increase of marketing efforts at the top 5 most frequented stations by casual riders.
-* Introduce a point-award incentive system for riding more trips in a membership format to receive discount and additional offers. Note:(Points should be based on trip duration given that casual riders have higher trip duration/ride length when compared to Annual members)
+* Introduce a point-award incentive system for riding more trips in a membership format to receive discount and additional offers. Note:(Points should   be based on trip duration given that casual riders have higher trip duration/ride length when compared to Annual members)
 * Implement a Membership referral program . Social media would make it easier for the current members to participate in such promotion plan.
 * Implement a weekend promo where riders can purchase weekend passes as it is the most popular time in the week to use Cyclistic bikes.
-* Implement a summer discount where riders can purchase summer passes given that the total amount of trips increases in the summer and highest in August.
+* Implement a summer discount where riders can purchase summer passes given that the total amount of trips increases in the summer and highest in       August.
 
